@@ -1,7 +1,11 @@
 {
   "$GMObject":"",
   "%Name":"obj_bug",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_stage_klunk_attack","path":"objects/obj_stage_klunk_attack/obj_stage_klunk_attack.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_bug",
   "overriddenProperties":[],
@@ -23,7 +27,12 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"max_hit_count","filters":[],"listItems":[],"multiselect":false,"name":"max_hit_count","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"hit_animation","filters":[],"listItems":[],"multiselect":false,"name":"hit_animation","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_lady_bug_hit","path":"sprites/spr_lady_bug_hit/spr_lady_bug_hit.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_lady_bug_hit","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"idle_animation","filters":[],"listItems":[],"multiselect":false,"name":"idle_animation","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sprite_index","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"x_velocity","filters":[],"listItems":[],"multiselect":false,"name":"x_velocity","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"2","varType":0,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

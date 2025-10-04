@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_stage_klunk_attack",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_stage_klunk_attack",
   "overriddenProperties":[],
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_klunk_attack",
+    "path":"sprites/spr_klunk_attack/spr_klunk_attack.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
