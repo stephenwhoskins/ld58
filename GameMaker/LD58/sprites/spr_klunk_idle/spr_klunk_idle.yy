@@ -28,7 +28,7 @@
   "origin":4,
   "parent":{
     "name":"klunk",
-    "path":"folders/Sprites/klunk.yy",
+    "path":"folders/Sprites/stage/klunk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

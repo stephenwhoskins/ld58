@@ -5,28 +5,28 @@
   "bbox_bottom":41,
   "bbox_left":1,
   "bbox_right":27,
-  "bbox_top":6,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6bfc1a4a-6b13-4cca-981c-2c05e8a537f2","name":"6bfc1a4a-6b13-4cca-981c-2c05e8a537f2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"80ccf538-e326-443a-a467-d345ebc3b162","name":"80ccf538-e326-443a-a467-d345ebc3b162","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":42,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"456f1b9e-696b-40af-8e2e-a88b737d470f","blendMode":0,"displayName":"default","isLocked":false,"name":"456f1b9e-696b-40af-8e2e-a88b737d470f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"73112d1d-7194-4db0-8fb6-4ec0d4b68f2d","blendMode":0,"displayName":"default","isLocked":false,"name":"73112d1d-7194-4db0-8fb6-4ec0d4b68f2d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_klunk_falling",
   "nineSlice":null,
   "origin":4,
   "parent":{
     "name":"klunk",
-    "path":"folders/Sprites/klunk.yy",
+    "path":"folders/Sprites/stage/klunk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6bfc1a4a-6b13-4cca-981c-2c05e8a537f2","path":"sprites/spr_klunk_falling/spr_klunk_falling.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b6ee3e84-fdce-4d07-92dd-6c1aa3b9fc50","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"80ccf538-e326-443a-a467-d345ebc3b162","path":"sprites/spr_klunk_falling/spr_klunk_falling.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"40677261-4ecb-4f64-9c46-47f5d1358573","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
