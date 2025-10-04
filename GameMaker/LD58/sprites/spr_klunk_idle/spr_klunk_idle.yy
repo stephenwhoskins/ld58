@@ -3,7 +3,7 @@
   "%Name":"spr_klunk_idle",
   "bboxMode":2,
   "bbox_bottom":41,
-  "bbox_left":0,
+  "bbox_left":1,
   "bbox_right":24,
   "bbox_top":2,
   "collisionKind":1,

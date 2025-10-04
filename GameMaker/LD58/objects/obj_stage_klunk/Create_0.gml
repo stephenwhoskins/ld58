@@ -12,6 +12,7 @@ x_velocity = 0;
 y_velocity = 0;
 x_position = x;
 y_position = y;
+hit_velocity = 0;
 
 jump_speed = -6;
 
@@ -19,6 +20,7 @@ attack_pressed = false;
 attacking = false;
 
 hit = false;
+health = 5;
 
 /// @brief Handles x-movement for the klunk.
 function handle_x_movement()
@@ -33,7 +35,7 @@ function handle_x_movement()
 	if (hit)
 	{
 		move_direction = 0;
-		x_velocity = -sign(image_xscale);
+		x_velocity = hit_velocity;
 	}
 
 	if (move_direction != 0) image_xscale = sign(move_direction);
