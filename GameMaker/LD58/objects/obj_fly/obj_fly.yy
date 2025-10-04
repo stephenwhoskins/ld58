@@ -8,7 +8,9 @@
   ],
   "managed":true,
   "name":"obj_fly",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_bug","path":"objects/obj_bug/obj_bug.yy",},"propertyId":{"name":"hit_animation","path":"objects/obj_bug/obj_bug.yy",},"resource":{"name":"spr_fly_hit","path":"sprites/spr_fly_hit/spr_fly_hit.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_fly_hit",},
+  ],
   "parent":{
     "name":"fly",
     "path":"folders/Objects/stage/bugs/fly.yy",
@@ -34,7 +36,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_fly_flying",
+    "path":"sprites/spr_fly_flying/spr_fly_flying.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var _player = instance_find(obj_player, 0);
+var _player = instance_find(obj_stage_klunk, 0);
 
 if (_player == noone) return;
 
@@ -14,7 +14,7 @@ direction = point_direction(x, y, _player.x, _player.y);
 
 if (_distance < max_distance && !_player.hit && fly_time_microseconds < fly_cycle_microseconds / 2)
 {
-	if (sprite_index != spr_flyer_hit)
+	if (sprite_index != spr_fly_hit)
 	{
 		var _max_speed = min(max_speed, 2 * max_speed * (1.0 - _distance / max_distance));
 		speed = min(_max_speed, speed + acceleration);
@@ -27,7 +27,7 @@ if (_distance < max_distance && !_player.hit && fly_time_microseconds < fly_cycl
 }
 else
 {
-	if (sprite_index == spr_flyer_hit) direction += 180;
+	if (sprite_index == spr_fly_hit) direction += 180;
 	speed = max(0, speed - acceleration);
 }
 

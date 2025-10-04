@@ -103,11 +103,13 @@
     {"name":"inst_58DF98A1","path":"rooms/rm_stage_0/rm_stage_0.yy",},
     {"name":"inst_3D412931","path":"rooms/rm_stage_0/rm_stage_0.yy",},
     {"name":"inst_3B2639BE","path":"rooms/rm_stage_0/rm_stage_0.yy",},
+    {"name":"inst_85C4589","path":"rooms/rm_stage_0/rm_stage_0.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_HUD","depth":0,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_402FFF0B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_402FFF0B","objectId":{"name":"obj_stage_camera","path":"objects/obj_stage_camera/obj_stage_camera.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-24.0,"y":248.0,},
+        {"$GMRInstance":"v2","%Name":"inst_85C4589","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_85C4589","objectId":{"name":"obj_fly","path":"objects/obj_fly/obj_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":504.0,"y":336.0,},
       ],"layers":[],"name":"Instances_HUD","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_CE940E8","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_CE940E8","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_greenery_0","path":"sprites/spr_greenery_0/spr_greenery_0.yy",},"x":176.0,"y":494.0,},

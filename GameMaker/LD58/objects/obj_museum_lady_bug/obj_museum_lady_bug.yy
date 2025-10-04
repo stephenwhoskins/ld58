@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_museum_bug",
+  "%Name":"obj_museum_lady_bug",
   "eventList":[],
   "managed":true,
-  "name":"obj_museum_bug",
+  "name":"obj_museum_lady_bug",
   "overriddenProperties":[],
   "parent":{
     "name":"museum",
