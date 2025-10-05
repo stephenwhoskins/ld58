@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_museum_small_fly",
+  "%Name":"obj_music_world_map",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_museum_small_fly",
+  "name":"obj_music_world_map",
   "overriddenProperties":[],
   "parent":{
-    "name":"museum",
-    "path":"folders/Objects/museum.yy",
+    "name":"music",
+    "path":"folders/Objects/music.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_music",
+    "path":"objects/obj_music/obj_music.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_small_fly_flying",
-    "path":"sprites/spr_small_fly_flying/spr_small_fly_flying.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

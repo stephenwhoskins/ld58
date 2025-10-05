@@ -197,6 +197,7 @@
     {"name":"inst_7FF0CAB4","path":"rooms/rm_stage_4/rm_stage_4.yy",},
     {"name":"inst_5AB9F807","path":"rooms/rm_stage_4/rm_stage_4.yy",},
     {"name":"inst_5D115281","path":"rooms/rm_stage_4/rm_stage_4.yy",},
+    {"name":"inst_7D263EC0","path":"rooms/rm_stage_4/rm_stage_4.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -205,6 +206,7 @@
         {"$GMRInstance":"v2","%Name":"inst_656430F8_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_656430F8_1_1_1_1","objectId":{"name":"obj_stage_portal","path":"objects/obj_stage_portal/obj_stage_portal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":82.0,"scaleY":33.75,"x":23.999992,"y":624.0,},
         {"$GMRInstance":"v2","%Name":"inst_2075194E_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2075194E_1_1_1_1","objectId":{"name":"obj_transition_pixelate_in","path":"objects/obj_transition_pixelate_in/obj_transition_pixelate_in.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-104.0,"y":-8.0,},
         {"$GMRInstance":"v2","%Name":"inst_7FE5A386_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7FE5A386_1_1_1_1","objectId":{"name":"obj_transition_pixelate_out","path":"objects/obj_transition_pixelate_out/obj_transition_pixelate_out.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-104.0,"y":16.0,},
+        {"$GMRInstance":"v2","%Name":"inst_7D263EC0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D263EC0","objectId":{"name":"obj_music_stage","path":"objects/obj_music_stage/obj_music_stage.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-104.0,"y":40.0,},
       ],"layers":[],"name":"Instances_HUD","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7A2401ED","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7A2401ED","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_greenery_2","path":"sprites/spr_greenery_2/spr_greenery_2.yy",},"x":152.0,"y":1026.0,},

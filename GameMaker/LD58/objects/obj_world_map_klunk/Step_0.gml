@@ -28,7 +28,7 @@ if (path_index == -1)
 		image_xscale = 1;
 	}
 	
-	if (keyboard_check(vk_enter) && !key_pressed)
+	if ((keyboard_check(vk_enter) || keyboard_check(ord("A"))) && !key_pressed)
 	{
 		obj_transition_pixelate_out.room_id = global.room_id;
 	}
