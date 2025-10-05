@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-max_speed = 1;
+
 max_distance = 128;
 acceleration = 0.0625;
 
