@@ -18,7 +18,7 @@ switch (state)
 		y = obj_stage_klunk.y;
 		x_velocity = -5;
 		y_velocity = 0;
-		alarm[0] = 2 * game_get_speed(gamespeed_fps);
+		alarm[0] = 3 * game_get_speed(gamespeed_fps);
 		break;
 	}
 	case BIG_FLY_STATES.flying_left:
@@ -47,7 +47,7 @@ switch (state)
 		y = obj_stage_klunk.y;
 		x_velocity = 5;
 		y_velocity = 0;
-		alarm[0] = 2 * game_get_speed(gamespeed_fps);
+		alarm[0] = 3 * game_get_speed(gamespeed_fps);
 		break;
 	}
 	case BIG_FLY_STATES.flying_right:

@@ -24,4 +24,4 @@ image_xscale = -1;
 x_velocity = 0;
 y_velocity = 1;
 
-alarm[0] = 2 * game_get_speed(gamespeed_fps);
+alarm[0] = 4 * game_get_speed(gamespeed_fps);
