@@ -7,9 +7,12 @@ if (sprite_index != hit_animation)
 	hit_count++;
 	
 	// move bug away by some offset, but make sure he doesn't get stuck in a wall
-	var _hit_offset = -sign(obj_stage_klunk.x - x) * 10;
-	while (place_meeting(x + _hit_offset, y, obj_stage_earth)) _hit_offset += sign(obj_stage_klunk.x - x);
-	x += _hit_offset * abs(x_velocity);
+	if (max_hit_offset != 0)
+	{
+		var _hit_offset = -sign(obj_stage_klunk.x - x) * max_hit_offset;
+		while (place_meeting(x + _hit_offset, y, obj_stage_earth)) _hit_offset += sign(obj_stage_klunk.x - x);
+		x += _hit_offset * abs(x_velocity);
+	}
 	
 	if (hit_count == max_hit_count)
 	{

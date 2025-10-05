@@ -32,6 +32,7 @@
     {"$GMObjectProperty":"v1","%Name":"hit_animation","filters":[],"listItems":[],"multiselect":false,"name":"hit_animation","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_lady_bug_hit","path":"sprites/spr_lady_bug_hit/spr_lady_bug_hit.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_lady_bug_hit","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"idle_animation","filters":[],"listItems":[],"multiselect":false,"name":"idle_animation","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sprite_index","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"x_velocity","filters":[],"listItems":[],"multiselect":false,"name":"x_velocity","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"max_hit_offset","filters":[],"listItems":[],"multiselect":false,"name":"max_hit_offset","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
