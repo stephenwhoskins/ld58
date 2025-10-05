@@ -8,7 +8,6 @@ switch (state)
 		state = STATES.attacking;
 		for (var _i = 0; _i < 16; ++_i)
 		{
-			show_debug_message("hello?");
 			var _x_velocity = random_range(-4, 4);
 			var _y_velocity = random_range(-4, -8);
 			var _sprite_index = spr_particle_2;

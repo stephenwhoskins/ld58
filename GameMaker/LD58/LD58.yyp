@@ -164,9 +164,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_world_map","path":"rooms/rm_world_map/rm_world_map.yy",},},
     {"roomId":{"name":"rm_boss_big_fly","path":"rooms/rm_boss_big_fly/rm_boss_big_fly.yy",},},
-    {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_insect_museum","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},},
     {"roomId":{"name":"rm_boss_centipede","path":"rooms/rm_boss_centipede/rm_boss_centipede.yy",},},
     {"roomId":{"name":"rm_stage_0","path":"rooms/rm_stage_0/rm_stage_0.yy",},},

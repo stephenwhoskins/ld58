@@ -15,3 +15,4 @@ start_y = y;
 
 up_pressed = true;
 down_pressed = true;
+enter_pressed = false;

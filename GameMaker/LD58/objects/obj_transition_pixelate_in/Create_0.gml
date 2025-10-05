@@ -4,5 +4,5 @@
 application_surface_draw_enable(false);
 
 scale = 533;
-max_scale_time = 1000000; // 0.5 sec
+max_scale_time = 500000; // 0.5 sec
 scale_time = 0;
