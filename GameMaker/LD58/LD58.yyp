@@ -111,6 +111,8 @@
     {"id":{"name":"rm_stage_1","path":"rooms/rm_stage_1/rm_stage_1.yy",},},
     {"id":{"name":"rm_stage_2","path":"rooms/rm_stage_2/rm_stage_2.yy",},},
     {"id":{"name":"rm_stage_3","path":"rooms/rm_stage_3/rm_stage_3.yy",},},
+    {"id":{"name":"rm_stage_4","path":"rooms/rm_stage_4/rm_stage_4.yy",},},
+    {"id":{"name":"rm_stage_5","path":"rooms/rm_stage_5/rm_stage_5.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"rm_world_map","path":"rooms/rm_world_map/rm_world_map.yy",},},
     {"id":{"name":"script_init","path":"scripts/script_init/script_init.yy",},},
@@ -168,6 +170,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_stage_2","path":"rooms/rm_stage_2/rm_stage_2.yy",},},
+    {"roomId":{"name":"rm_stage_3","path":"rooms/rm_stage_3/rm_stage_3.yy",},},
+    {"roomId":{"name":"rm_stage_4","path":"rooms/rm_stage_4/rm_stage_4.yy",},},
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_world_map","path":"rooms/rm_world_map/rm_world_map.yy",},},
     {"roomId":{"name":"rm_boss_big_fly","path":"rooms/rm_boss_big_fly/rm_boss_big_fly.yy",},},
@@ -176,8 +181,7 @@
     {"roomId":{"name":"rm_stage_0","path":"rooms/rm_stage_0/rm_stage_0.yy",},},
     {"roomId":{"name":"rm_boss_pre_centipede","path":"rooms/rm_boss_pre_centipede/rm_boss_pre_centipede.yy",},},
     {"roomId":{"name":"rm_stage_1","path":"rooms/rm_stage_1/rm_stage_1.yy",},},
-    {"roomId":{"name":"rm_stage_2","path":"rooms/rm_stage_2/rm_stage_2.yy",},},
-    {"roomId":{"name":"rm_stage_3","path":"rooms/rm_stage_3/rm_stage_3.yy",},},
+    {"roomId":{"name":"rm_stage_5","path":"rooms/rm_stage_5/rm_stage_5.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
