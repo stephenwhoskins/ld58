@@ -21,6 +21,7 @@ attacking = false;
 
 hit = false;
 health = 5;
+room_id = -1;
 
 /// @brief Handles x-movement for the klunk.
 function handle_x_movement()
