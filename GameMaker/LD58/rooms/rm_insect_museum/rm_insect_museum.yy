@@ -32,6 +32,8 @@
     {"name":"inst_756DF28D","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
     {"name":"inst_1B6FBF04","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
     {"name":"inst_CAD366B","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
+    {"name":"inst_7A95C73A","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
+    {"name":"inst_C9FFB71","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -68,6 +70,8 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_Bugs","depth":300,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_1B6FBF04","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B6FBF04","objectId":{"name":"obj_museum_lady_bug","path":"objects/obj_museum_lady_bug/obj_museum_lady_bug.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":48.0,"y":179.0,},
         {"$GMRInstance":"v2","%Name":"inst_CAD366B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_CAD366B","objectId":{"name":"obj_museum_fly","path":"objects/obj_museum_fly/obj_museum_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":144.0,"y":168.0,},
+        {"$GMRInstance":"v2","%Name":"inst_7A95C73A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7A95C73A","objectId":{"name":"obj_museum_fast_bug","path":"objects/obj_museum_fast_bug/obj_museum_fast_bug.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":240.0,"y":179.0,},
+        {"$GMRInstance":"v2","%Name":"inst_C9FFB71","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C9FFB71","objectId":{"name":"obj_museum_small_fly","path":"objects/obj_museum_small_fly/obj_museum_small_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":336.0,"y":168.0,},
       ],"layers":[],"name":"Instances_Bugs","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7604502F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7604502F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_museum_pedestal","path":"sprites/spr_museum_pedestal/spr_museum_pedestal.yy",},"x":48.0,"y":216.0,},

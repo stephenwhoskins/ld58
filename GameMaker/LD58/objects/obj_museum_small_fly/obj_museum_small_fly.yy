@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_museum_fast_bug",
+  "%Name":"obj_museum_small_fly",
   "eventList":[],
   "managed":true,
-  "name":"obj_museum_fast_bug",
+  "name":"obj_museum_small_fly",
   "overriddenProperties":[],
   "parent":{
     "name":"museum",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fast_bug_walking",
-    "path":"sprites/spr_fast_bug_walking/spr_fast_bug_walking.yy",
+    "name":"spr_small_fly_flying",
+    "path":"sprites/spr_small_fly_flying/spr_small_fly_flying.yy",
   },
   "spriteMaskId":null,
   "visible":true,
