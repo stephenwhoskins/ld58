@@ -32,12 +32,14 @@
     {"name":"inst_583B622A","path":"rooms/rm_boss_centipede/rm_boss_centipede.yy",},
     {"name":"inst_41361B2E","path":"rooms/rm_boss_centipede/rm_boss_centipede.yy",},
     {"name":"inst_7D4828C1","path":"rooms/rm_boss_centipede/rm_boss_centipede.yy",},
+    {"name":"inst_5716B96F","path":"rooms/rm_boss_centipede/rm_boss_centipede.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_HUD","depth":0,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_41361B2E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_41361B2E","objectId":{"name":"obj_transition_pixelate_in","path":"objects/obj_transition_pixelate_in/obj_transition_pixelate_in.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-72.0,"y":0.0,},
         {"$GMRInstance":"v2","%Name":"inst_7D4828C1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D4828C1","objectId":{"name":"obj_transition_pixelate_out","path":"objects/obj_transition_pixelate_out/obj_transition_pixelate_out.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-72.0,"y":16.0,},
+        {"$GMRInstance":"v2","%Name":"inst_5716B96F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5716B96F","objectId":{"name":"obj_boss_defeat","path":"objects/obj_boss_defeat/obj_boss_defeat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-72.0,"y":32.0,},
       ],"layers":[],"name":"Instances_HUD","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_Klunk","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_583B622A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_583B622A","objectId":{"name":"obj_stage_klunk","path":"objects/obj_stage_klunk/obj_stage_klunk.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":72.0,"y":203.0,},
@@ -85,8 +87,8 @@
   ],
   "name":"rm_boss_centipede",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"bosses",
+    "path":"folders/Rooms/bosses.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global.stages_complete[0] = true;
+global.stages_complete[1] = true;
