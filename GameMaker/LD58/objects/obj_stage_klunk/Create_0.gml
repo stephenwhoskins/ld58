@@ -7,7 +7,7 @@ move_direction = 0;
 move_speed = 2;
 
 y_acceleration = 0.275;
-max_y_velocity = 4;
+max_y_velocity = 6;
 x_velocity = 0;
 y_velocity = 0;
 x_position = x;

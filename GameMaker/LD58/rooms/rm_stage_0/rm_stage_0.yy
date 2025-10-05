@@ -437,8 +437,8 @@
   ],
   "name":"rm_stage_0",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"stages",
+    "path":"folders/Rooms/stages.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
