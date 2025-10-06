@@ -25,7 +25,7 @@ else if (!keyboard_check(vk_up) && up_pressed)
 
 if (keyboard_check(vk_enter) && !enter_pressed)
 {
-	if (menu_item == MENU_ITEMS.start) obj_transition_pixelate_out.room_id = rm_insect_museum;
+	if (menu_item == MENU_ITEMS.start) obj_transition_pixelate_out.room_id = rm_instructions;
 	else game_end(0);
 	enter_pressed = true;
 }
