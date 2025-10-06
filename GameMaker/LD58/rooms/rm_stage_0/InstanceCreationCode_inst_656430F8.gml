@@ -1,1 +1,1 @@
-room_id = rm_boss_pre_centipede;
+room_id = rm_pre_boss_centipede;

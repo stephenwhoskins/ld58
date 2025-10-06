@@ -1,1 +1,1 @@
-room_id = rm_boss_pre_big_runner;
+room_id = rm_pre_boss_big_runner;

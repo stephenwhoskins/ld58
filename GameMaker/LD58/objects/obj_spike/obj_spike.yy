@@ -6,10 +6,15 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_stage_klunk_attack","path":"objects/obj_stage_klunk_attack/obj_stage_klunk_attack.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_spike",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_bug","path":"objects/obj_bug/obj_bug.yy",},"propertyId":{"name":"max_hit_count","path":"objects/obj_bug/obj_bug.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_bug","path":"objects/obj_bug/obj_bug.yy",},"propertyId":{"name":"hit_animation","path":"objects/obj_bug/obj_bug.yy",},"resource":{"name":"spr_spike_hit","path":"sprites/spr_spike_hit/spr_spike_hit.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_spike_hit",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_bug","path":"objects/obj_bug/obj_bug.yy",},"propertyId":{"name":"max_hit_offset","path":"objects/obj_bug/obj_bug.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
+  ],
   "parent":{
     "name":"spike",
     "path":"folders/Objects/stage/bugs/spike.yy",

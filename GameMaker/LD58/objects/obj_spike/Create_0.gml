@@ -13,4 +13,5 @@ enum SPIKE_STATES
 }
 
 state = SPIKE_STATES.walking_left;
-alarm[0] = 6 * game_get_speed(gamespeed_fps);
+x_velocity = -1;
+alarm[0] = 4 * game_get_speed(gamespeed_fps);

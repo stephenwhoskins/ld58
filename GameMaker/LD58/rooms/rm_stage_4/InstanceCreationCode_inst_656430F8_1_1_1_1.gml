@@ -1,1 +1,1 @@
-room_id = rm_boss_big_fly;
+room_id = rm_pre_boss_spike;
