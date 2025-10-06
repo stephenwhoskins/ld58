@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"spr_fly_hit",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":38,
-  "bbox_left":1,
-  "bbox_right":46,
+  "bbox_left":11,
+  "bbox_right":38,
   "bbox_top":7,
   "collisionKind":1,
   "collisionTolerance":0,
