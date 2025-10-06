@@ -14,7 +14,7 @@ x_position = x;
 y_position = y;
 hit_velocity = 0;
 
-jump_speed = -6;
+jump_speed = -6.5;
 
 attack_pressed = false;
 attacking = false;
