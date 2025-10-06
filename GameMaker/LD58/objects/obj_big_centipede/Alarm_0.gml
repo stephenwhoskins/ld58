@@ -15,6 +15,7 @@ switch (state)
 			instance_create_layer(x, start_y + sprite_height / 2 - 4, "Instances_Klunk", obj_particle, {x_velocity: _x_velocity, y_velocity: _y_velocity, x_dampening: 0, y_dampening: 0, sprite_index: _sprite_index, max_life_microseconds: -1});
 		}
 		y_velocity = -max_y_velocity;
+		if (!audio_is_playing(snd_music_boss)) audio_play_sound(snd_music_boss, 10, true);
 		alarm[0] = 2 * game_get_speed(gamespeed_fps);
 		break;
 	}

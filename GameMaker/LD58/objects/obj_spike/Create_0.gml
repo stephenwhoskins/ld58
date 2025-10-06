@@ -15,3 +15,5 @@ enum SPIKE_STATES
 state = SPIKE_STATES.walking_left;
 x_velocity = -1;
 alarm[0] = 4 * game_get_speed(gamespeed_fps);
+
+if (!audio_is_playing(snd_music_boss)) audio_play_sound(snd_music_boss, 10, true);

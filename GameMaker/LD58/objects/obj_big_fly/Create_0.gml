@@ -18,6 +18,8 @@ state = BIG_FLY_STATES.flying_down_right;
 start_x = x;
 start_y = y;
 
+if (!audio_is_playing(snd_music_boss)) audio_play_sound(snd_music_boss, 10, true);
+
 y = -sprite_height;
 image_xscale = -1;
 

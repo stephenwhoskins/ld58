@@ -13,3 +13,12 @@ if (health <= 0)
 handle_x_movement();
 handle_y_movement();
 handle_attack();
+
+if (sprite_index == spr_klunk_walking && !audio_is_playing(snd_sfx_walking))
+{
+	audio_play_sound(snd_sfx_walking, 10, true);
+}
+else if (sprite_index != spr_klunk_walking && audio_is_playing(snd_sfx_walking))
+{
+	audio_stop_sound(snd_sfx_walking);
+}

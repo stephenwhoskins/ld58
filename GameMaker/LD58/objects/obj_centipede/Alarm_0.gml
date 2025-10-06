@@ -16,6 +16,7 @@ switch (state)
 		}
 		y_velocity = -max_y_velocity;
 		alarm[0] = 2 * game_get_speed(gamespeed_fps);
+		if (!audio_is_playing(snd_music_boss)) audio_play_sound(snd_music_boss, 10, true);
 		break;
 	}
 	case STATES.attacking:
