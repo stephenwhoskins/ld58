@@ -10,7 +10,13 @@ if (sprite_index != hit_animation)
 	if (max_hit_offset != 0)
 	{
 		var _hit_offset = -sign(obj_stage_klunk.x - x) * max_hit_offset;
-		while (place_meeting(x + _hit_offset, y, obj_stage_earth)) _hit_offset += sign(obj_stage_klunk.x - x);
+		if (object_index != obj_fly && object_index != obj_small_fly)
+		{
+			while (place_meeting(x + _hit_offset, y, obj_stage_earth))
+			{
+				_hit_offset += sign(obj_stage_klunk.x - x);
+			}
+		}
 		x += _hit_offset * abs(x_velocity);
 	}
 	

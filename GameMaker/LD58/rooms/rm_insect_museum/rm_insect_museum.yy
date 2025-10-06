@@ -52,6 +52,7 @@
     {"name":"inst_67C374DB","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
     {"name":"inst_325B4F1","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
     {"name":"inst_17A201FD","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
+    {"name":"inst_566A5B74","path":"rooms/rm_insect_museum/rm_insect_museum.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -108,6 +109,7 @@
         {"$GMRInstance":"v2","%Name":"inst_C9FFB71","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C9FFB71","objectId":{"name":"obj_museum_small_fly","path":"objects/obj_museum_small_fly/obj_museum_small_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":336.0,"y":168.0,},
         {"$GMRInstance":"v2","%Name":"inst_287D0010","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_287D0010","objectId":{"name":"obj_museum_centipede","path":"objects/obj_museum_centipede/obj_museum_centipede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":432.0,"y":147.0,},
         {"$GMRInstance":"v2","%Name":"inst_DBAB896","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DBAB896","objectId":{"name":"obj_museum_big_fly","path":"objects/obj_museum_big_fly/obj_museum_big_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":528.0,"y":144.0,},
+        {"$GMRInstance":"v2","%Name":"inst_566A5B74","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_566A5B74","objectId":{"name":"obj_museum_big_runner","path":"objects/obj_museum_big_runner/obj_museum_big_runner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":624.0,"y":169.0,},
       ],"layers":[],"name":"Instances_Bugs","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7604502F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7604502F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_museum_pedestal","path":"sprites/spr_museum_pedestal/spr_museum_pedestal.yy",},"x":48.0,"y":216.0,},

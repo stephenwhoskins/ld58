@@ -93,8 +93,8 @@
   ],
   "name":"rm_boss_pre_centipede",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"pre_bosses",
+    "path":"folders/Rooms/pre_bosses.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
