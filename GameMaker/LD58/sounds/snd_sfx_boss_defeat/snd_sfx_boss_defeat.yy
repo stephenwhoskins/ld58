@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":3.33,
+  "duration":2.6461225,
   "name":"snd_sfx_boss_defeat",
   "parent":{
     "name":"sfx",
