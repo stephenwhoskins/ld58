@@ -227,9 +227,9 @@
     {"name":"inst_6B43FA10","path":"rooms/rm_stage_5/rm_stage_5.yy",},
     {"name":"inst_100523E3","path":"rooms/rm_stage_5/rm_stage_5.yy",},
     {"name":"inst_7E4C11E","path":"rooms/rm_stage_5/rm_stage_5.yy",},
-    {"name":"inst_43156A6","path":"rooms/rm_stage_5/rm_stage_5.yy",},
     {"name":"inst_106E61DF","path":"rooms/rm_stage_5/rm_stage_5.yy",},
     {"name":"inst_79E60D5F","path":"rooms/rm_stage_5/rm_stage_5.yy",},
+    {"name":"inst_3BB11A5F","path":"rooms/rm_stage_5/rm_stage_5.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -259,8 +259,8 @@
       ],"layers":[],"name":"Instances_Klunk","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_Bugs","depth":300,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7E4C11E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E4C11E","objectId":{"name":"obj_fast_bug","path":"objects/obj_fast_bug/obj_fast_bug.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1192.0,"y":395.0,},
-        {"$GMRInstance":"v2","%Name":"inst_43156A6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43156A6","objectId":{"name":"obj_small_fly","path":"objects/obj_small_fly/obj_small_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":720.0,"y":856.0,},
         {"$GMRInstance":"v2","%Name":"inst_106E61DF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_106E61DF","objectId":{"name":"obj_fly","path":"objects/obj_fly/obj_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":952.0,"y":816.0,},
+        {"$GMRInstance":"v2","%Name":"inst_3BB11A5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3BB11A5F","objectId":{"name":"obj_fly","path":"objects/obj_fly/obj_fly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":856.0,},
       ],"layers":[],"name":"Instances_Bugs","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_Earth","depth":400,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_37D18269","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37D18269","objectId":{"name":"obj_stage_earth","path":"objects/obj_stage_earth/obj_stage_earth.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-24.0,"y":1056.0,},
