@@ -3,7 +3,7 @@
 
 if (hit_count == max_hit_count)
 {
-	global.stages_complete[2] = true;
+	global.stages_complete[5] = true;
 	audio_stop_all();
 	audio_play_sound(snd_sfx_boss_defeat, 10, false);
 }

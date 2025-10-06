@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if (global.stage_id != stage_id) audio_play_sound(snd_sfx_path_point, 10, false);
+
 obj_world_map_klunk.up_path = up_path;
 obj_world_map_klunk.down_path = down_path;
 obj_world_map_klunk.left_path = left_path;
