@@ -22,3 +22,5 @@ else if (sprite_index != spr_klunk_walking && audio_is_playing(snd_sfx_walking))
 {
 	audio_stop_sound(snd_sfx_walking);
 }
+
+hurt_count = min(hurt_count + 1, max_hurt_count);

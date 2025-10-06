@@ -205,6 +205,7 @@
     {"id":{"name":"spr_klunk_attack","path":"sprites/spr_klunk_attack/spr_klunk_attack.yy",},},
     {"id":{"name":"spr_klunk_attacking","path":"sprites/spr_klunk_attacking/spr_klunk_attacking.yy",},},
     {"id":{"name":"spr_klunk_falling","path":"sprites/spr_klunk_falling/spr_klunk_falling.yy",},},
+    {"id":{"name":"spr_klunk_heart","path":"sprites/spr_klunk_heart/spr_klunk_heart.yy",},},
     {"id":{"name":"spr_klunk_hit","path":"sprites/spr_klunk_hit/spr_klunk_hit.yy",},},
     {"id":{"name":"spr_klunk_idle","path":"sprites/spr_klunk_idle/spr_klunk_idle.yy",},},
     {"id":{"name":"spr_klunk_jumping","path":"sprites/spr_klunk_jumping/spr_klunk_jumping.yy",},},

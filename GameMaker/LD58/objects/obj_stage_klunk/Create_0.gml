@@ -23,6 +23,9 @@ hit = false;
 health = 5;
 room_id = -1;
 
+hurt_count = 0;
+max_hurt_count = 1 * game_get_speed(gamespeed_fps);
+
 /// @brief Handles x-movement for the klunk.
 function handle_x_movement()
 {
