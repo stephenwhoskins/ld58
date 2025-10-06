@@ -7,6 +7,7 @@ if (keyboard_check(vk_down) && !down_pressed)
 {
 	menu_item = (menu_item + 1) % MENU_ITEMS.max_menu_items;
 	down_pressed = true;
+	audio_play_sound(snd_sfx_path_point, 10, false);
 }
 else if (!keyboard_check(vk_down) && down_pressed)
 {
@@ -17,6 +18,7 @@ if (keyboard_check(vk_up) && !up_pressed)
 {
 	menu_item = (menu_item + MENU_ITEMS.max_menu_items - 1) % MENU_ITEMS.max_menu_items;
 	up_pressed = true;
+	audio_play_sound(snd_sfx_path_point, 10, false);
 }
 else if (!keyboard_check(vk_up) && up_pressed)
 {
