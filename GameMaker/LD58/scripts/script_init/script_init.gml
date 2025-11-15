@@ -4,4 +4,5 @@ function script_init()
 {
 	global.stages_complete = [false, false, false, false, false, false];
 	global.stage_id = 0;
+	global.bugs_learned = [false, false, false, false, false, false, false, false, false, false];
 }

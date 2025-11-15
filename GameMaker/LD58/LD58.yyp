@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"LD58",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -77,7 +77,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"LD58",
   "resources":[
@@ -86,6 +86,7 @@
     {"id":{"name":"obj_big_fly","path":"objects/obj_big_fly/obj_big_fly.yy",},},
     {"id":{"name":"obj_big_runner","path":"objects/obj_big_runner/obj_big_runner.yy",},},
     {"id":{"name":"obj_boss_defeat","path":"objects/obj_boss_defeat/obj_boss_defeat.yy",},},
+    {"id":{"name":"obj_bug_learned","path":"objects/obj_bug_learned/obj_bug_learned.yy",},},
     {"id":{"name":"obj_bug","path":"objects/obj_bug/obj_bug.yy",},},
     {"id":{"name":"obj_centipede_dust","path":"objects/obj_centipede_dust/obj_centipede_dust.yy",},},
     {"id":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},},
@@ -183,6 +184,7 @@
     {"id":{"name":"spr_big_fly_hit","path":"sprites/spr_big_fly_hit/spr_big_fly_hit.yy",},},
     {"id":{"name":"spr_big_runner_hit","path":"sprites/spr_big_runner_hit/spr_big_runner_hit.yy",},},
     {"id":{"name":"spr_big_runner_running","path":"sprites/spr_big_runner_running/spr_big_runner_running.yy",},},
+    {"id":{"name":"spr_bug_learned","path":"sprites/spr_bug_learned/spr_bug_learned.yy",},},
     {"id":{"name":"spr_centipede_attacking","path":"sprites/spr_centipede_attacking/spr_centipede_attacking.yy",},},
     {"id":{"name":"spr_centipede_dust","path":"sprites/spr_centipede_dust/spr_centipede_dust.yy",},},
     {"id":{"name":"spr_centipede_hit","path":"sprites/spr_centipede_hit/spr_centipede_hit.yy",},},
